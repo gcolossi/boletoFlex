@@ -1,3 +1,26 @@
+Inicializando o projeto
+
+1- O projeto pode ser iniciado a partir de um clone do app para a maquina local.
+
+2- Com o projeto na maquina, executar npm install para instalar todas as dependências
+
+3- Após a instalação das dependências, executar npm start.
+
+
+
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
