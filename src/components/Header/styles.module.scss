@@ -1,0 +1,32 @@
+.headerContainer{
+    background: #fff;
+    height: 3.0rem;
+
+
+
+    display: flex;
+    align-items: center;
+
+    padding: 2rem 10rem;
+
+    img {
+        max-width: 10rem;
+        max-height: 10rem;
+    }
+
+
+    p{
+        margin-left: 2rem;
+        padding: 0.25rem 0 0.25rem 2rem;
+        color: #22214A;
+
+
+    }
+
+    span{
+        margin-left: auto;
+        text-transform: capitalize;
+        color: #22214A;
+    }
+}
+
