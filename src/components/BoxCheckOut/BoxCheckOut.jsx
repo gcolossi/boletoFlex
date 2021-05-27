@@ -230,7 +230,7 @@ const BoxCheckout = () => {
                     color="primary"
                     onClick={handleNext}
                     className={classes.button}
-                    disabled={typePayment == 'Boleto' || typePayment == 'Cartão' || !typePayment}
+                    disabled={typePayment === 'Boleto' || typePayment === 'Cartão' || !typePayment}
                   >
                     {activeStep === steps.length - 1 ? "Concluir" : "Próxima"}
                   </Button>
